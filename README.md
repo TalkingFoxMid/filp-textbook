@@ -2,4 +2,4 @@
 
 Учебник по функциональному программированию на Scala.
 
-**Читать учебник:** https://talkingfoxmid.github.io/filp-textbook/
+**Читать учебник:** https://filp-stuff.github.io/filp-textbook/
